@@ -5,6 +5,7 @@ background-color: #E6E56C;
 
 }
 div{
+  position: relative;
   background-color: #8ecff5;
 margin: 0;
   display: inline-block;
