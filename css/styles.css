@@ -1,15 +1,16 @@
 body{
+  margin: 0;
 background-color: #E6E56C;
   text-align: center;
 
 }
 div{
   background-color: #8ecff5;
-
+margin: 0;
   display: inline-block;
 
 width: 100%;
-  margin-top: 0;
+  
 
 }
 hr{
